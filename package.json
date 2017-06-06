@@ -20,5 +20,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://Meikyo72/myCode"
+  "homepage": "http://Meikyo72.github.io/myCode"
 }
